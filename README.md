@@ -9,7 +9,7 @@
 # Jay Tummala
 
 <!-- Headline: one line, short and specific. Edit freely. -->
-EE/CS student at Yale, focused on systems, performance, and low-level software.
+EE/CS student at Yale, focused on systems and low-level software.
 
 <!-- ===================== ABOUT ===================== -->
 ### About
